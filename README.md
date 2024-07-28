@@ -25,7 +25,7 @@ The project involves designing and implementing an SPI data logging system using
 
 ### Microcontroller Code
 
-The microcontroller is programmed to collect temperature data from the LM335 sensor and transmit it via the SPI interface. The assembly code handles the SPI communication protocol, ensuring reliable data transfer.
+The microcontroller is programmed in assembly to collect temperature data from the LM335 sensor and transmit it via the SPI interface.
 
 ### Python Code
 
