@@ -1,4 +1,4 @@
-# SPI Data Logging Using Python
+# SPI Temperature Data Logging Using Python
 
 ## Introduction
 
