@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project involves designing and implementing an SPI data logging system using Python to log and visualize temperature data from a 1T-8051 based series MCU.
+This project involves designing and implementing an SPI data logging system using Python to log and visualize temperature data from a 1T-8051 based series MCU.
 
 ![IMG_0670](https://github.com/user-attachments/assets/9a0fa883-8bcc-4739-945e-eddf4f09264b)
 
